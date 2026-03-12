@@ -1,3 +1,6 @@
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Agnivo%20Chattopadhyay
+![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F72F&center=true&vCenter=true&width=600&lines=Hi+I'm+Agnivo;Java+Developer;Future+Entrepreneur"/>
 <h1 align="center">Hi 👋, I'm Agnivo</h1>
 <h3 align="center">Aspiring Developer | Java & Web Dev</h3>
 
