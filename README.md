@@ -1,7 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F72F&center=true&vCenter=true&width=600&lines=Hi+I'm+Agnivo;Java+Developer;Future+Entrepreneur"/>
 <h1 align="center">Hi 👋, I'm Agnivo</h1>
 <h3 align="center">Aspiring Developer | Java & Web Dev</h3>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F72F&center=true&vCenter=true&width=600&lines=Hi+I'm+Agnivo;Java+Developer;Future+Entrepreneur"/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
